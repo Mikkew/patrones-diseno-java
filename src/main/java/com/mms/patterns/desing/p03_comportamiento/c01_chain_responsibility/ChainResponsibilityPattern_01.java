@@ -104,8 +104,4 @@ public class ChainResponsibilityPattern_01 {
         basicSupport.handle("experto");   // Lo resuelve soporte experto
         basicSupport.handle("nuclear");   // Ningún nivel lo resuelve
     }
-
-    public static void main2(String[] args){
-        ;
-    }
 }
