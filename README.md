@@ -20,8 +20,10 @@ Los patrones de diseño se clasifican generalmente en tres grandes categorías: 
 - [Patrones Estructurales](src/main/java/com/mms/patterns/desing/p02_estructurales/patrones_estructurales.md)
 - [Patrones de Comportamiento](src/main/java/com/mms/patterns/desing/p03_comportamiento/patrones_comportamiento.md)
 
+
 ## Bibliografía y fuentes de referencia
 
 - [Refactoring Guru: Patrones de diseño](https://refactoring.guru/es/design-patterns)
 - Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley.
 - Freeman, E., Freeman, E., Bates, B., & Sierra, K. (2004). *Head First Design Patterns*. O'Reilly Media.
+- [DevTalles: Patrones de Diseño - Soluciones prácticas y eficientes](https://cursos.devtalles.com/courses/patrones-diseno)
